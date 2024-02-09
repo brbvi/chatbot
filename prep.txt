@@ -1,0 +1,9 @@
+# Como automatizar esse processo?
+
+- Onde está feito( Versão Web )
+- Quais tec. preciso para resolver a demanda?
+    -teclado(pyautogui)
+    -acesso ao site(webbrowser)
+    -automatizara digitação(link whats)
+    - automatizar leitura de dados(openpyxl)
+    
